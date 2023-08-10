@@ -24,7 +24,6 @@
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=c#&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
