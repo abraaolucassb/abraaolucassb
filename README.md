@@ -1,21 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Abraão+Lucas;I'm+19+years+old;I'm+from+Brazil;I'm+a+Programmer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Abraão+Lucas;I'm+20+years+old;I'm+from+Brazil;I'm+a+UX/UI+Designer+and+Developer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<h3 align="center">My name is Abraão Lucas. I am from the city of Fortaleza, Ceará, Brazil. I am currently studying Computer Technician at the <a href="https://ifce.edu.br/fortaleza">Federal Institute of Education, Science and Technology of Ceará - IFCE</a>. I am working as a Python Developer at the <a href="https://www.linkedin.com/company/polo-de-inova%C3%A7%C3%A3o-ifce/mycompany/https://www.linkedin.com/company/polo-de-inova%C3%A7%C3%A3o-ifce/mycompany/">IFCE Innovation Pole</a>.</h3>
+<h3 align="center">My name is Abraão Lucas. I am from the city of Fortaleza, Ceará, Brazil. I am currently studying Digital Designer and User Experience at the <a href="https://portal.uniasselvi.com.br/">Leonardo da Vinci University Center</a>. I am currently also participating in a training program on iOS development and design based on Apple's model, offered by <a href="https://ifce.edu.br/">Federal Institute of Education, Science and Technology of Ceará</a>.</h3>
 
-- 🌱 I’m currently learning: **Python, Unity and C#**
+- 🌱 I’m currently learning: **Figma, Design Thinking, Color Theory and iOS Development**
 
-- 👯 I'm collaborating on: [AJUMP Corp](https://github.com/AJUMP-Corp)
-
-- 🎮 I'm currently playing: **Overwatch 2 and Cuphead**
+- 🎮 I'm currently playing: **Overwatch and CS2**
 
 - 💬 Ask me about: **Python**
-
-- 📫 How to reach me: **abraaolucassb@gmail.com**
-
-- ⚡ Fun fact: **I like One Piece!**
 
 ##
 
@@ -28,9 +22,10 @@
 <p align="left">
 </p>
 <div align="left"> 
-<a href="https://www.instagram.com/abraaolucassb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white"</a>
-<a href = "mailto:abraaolucassb@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/abraão-lucas-7052b6239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "https://www.instagram.com/abraaolucassb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:abraaolucassb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.behance.net/abraaolucassb"><img src="https://img.shields.io/badge/-Behance-%F0A119?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/abraão-lucas-7052b6239/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
   
 </div>
