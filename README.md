@@ -9,7 +9,7 @@
 
 - 🎮 I'm currently playing: **Overwatch and CS2**
 
-- 💬 Ask me about: **Python**
+- 💬 Ask me about: **UX/UI Design**
 
 ##
 
