@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Abraão+Lucas;I'm+20+years+old;I'm+from+Brazil;I'm+a+UX/UI+Designer+and+Developer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<h3 align="center">My name is Abraão Lucas. I am from the city of Fortaleza, Ceará, Brazil. I am currently studying Digital Designer and User Experience at the <a href="https://portal.uniasselvi.com.br/">Leonardo da Vinci University Center</a>. I am currently also participating in a training program on iOS development and design based on Apple's model, offered by <a href="https://ifce.edu.br/">Federal Institute of Education, Science and Technology of Ceará</a>.</h3>
+<h3 align="center">My name is Abraão Lucas. I am from the city of Fortaleza, Ceará, Brazil. I am currently studying Digital Design and User Experience at the <a href="https://portal.uniasselvi.com.br/">Leonardo da Vinci University Center</a>. I am currently also participating in a training program on iOS development and design based on Apple's model, offered by <a href="https://ifce.edu.br/">Federal Institute of Education, Science and Technology of Ceará</a>.</h3>
 
 - 🌱 I’m currently learning: **Figma, Design Thinking, Color Theory and iOS Development**
 
